@@ -1,11 +1,11 @@
 ### [《精通以太坊——实现数字合约》](https://github.com/ethereumbook/ethereumbook) 中文版
 
 ### 关于译者
-互联网从业者，对经济学感兴趣，很早加入数字货币和区块链研究。
+互联网从业者，对经济学感兴趣，很早加入区块链和数字加密货币的研究。
 
-闲暇时间翻译，欢迎指正，感谢加星~
+感谢指正！
 
-Wechat: 121402213
+Wechat: oldnicke
 
 ### 封面
 ![Mastering Ethereum](images/cover.png)
